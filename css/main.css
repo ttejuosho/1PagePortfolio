@@ -1013,8 +1013,7 @@ html a.social-link:hover:before {
     50% { opacity:0; }
     100% { opacity:1; }
 	}
-
-
+	
 /*  --------------------------------------------
 
 	6. MEDIA QUERIES (@media) - base html elements
