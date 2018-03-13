@@ -1,10 +1,3 @@
-/*
-	Name: LazyGuy
-	Description: Personal Landing Page
-	Version: 1.0
-	Author: pixelwars
-*/
-
 (function () {
    'use strict';
    
